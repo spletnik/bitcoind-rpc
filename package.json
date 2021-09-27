@@ -1,7 +1,7 @@
 {
   "name": "@spletnik/bitcoind-rpc",
   "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
